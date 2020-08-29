@@ -2,8 +2,8 @@
 
 ## Preview
 
-<a href="https://gmoraitis.github.io/MHacks_Filtering_A_Drum_Loop/"
-target="_blank">![Filtering a Drum Loop](img/filter_demo.png) </a>
+<a href="https://gmoraitis.github.io/MLHSummerLeague_SunsOutHackOut_LearnPython/"
+target="_blank">![Ask Mary about Python](/website.png) </a>
 
 
 ## Usage
