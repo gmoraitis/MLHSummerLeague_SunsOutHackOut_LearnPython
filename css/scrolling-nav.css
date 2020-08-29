@@ -5,7 +5,7 @@
  */
 header {
   padding: 156px 0 100px;
-  background: url("/python.jpg");
+  background: url("../python.jpg");
 }
 
 section {
